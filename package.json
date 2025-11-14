@@ -1,0 +1,24 @@
+{
+  "name": "wordsy-attempt-3",
+  "version": "1.0.0",
+  "description": "The Antithesis of overcomplecation, wordsy's newest and hopefully final form",
+  "main": "config.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+
+  "dependencies": {
+  "@langchain/openai": "^1.0.0",
+  "langchain": "^1.0.2"
+  },
+  "peerDependencies": {
+    "@langchain/core": "~1.0.2"
+  },
+  "devDependencies": {
+    "@langchain/core": "~1.0.2"
+  }
+}
