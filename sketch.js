@@ -51,7 +51,8 @@ let dangerExtreme;
 let targetX;
 let targetY;
 
-
+let attention;
+let worldBurning;
 
 let i;
 let pic;
